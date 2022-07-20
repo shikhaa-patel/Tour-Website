@@ -18,7 +18,7 @@
       </div>
       <div class="right">
          <ul id="navlist">
-            <li><a href="index.html"  class="active">HOME</a></li>
+            <li><a href="index.php"  class="active">HOME</a></li>
             <li><a href="package.php">PACKAGES</li></a>
             <li><a href="about.php">ABOUT</a></li>
             <li><a href="book.php">BOOK</a></li>
@@ -32,7 +32,74 @@
      </div>
    </nav>
 
+   <!-- <div class="body">
+      <div class="slider">
+         <div class="slides">
+            <input type="radio" name="rbtn" id="r1">
+            <input type="radio" name="rbtn" id="r2">
+            <input type="radio" name="rbtn" id="r3">
+            <input type="radio" name="rbtn" id="r4">
+            <input type="radio" name="rbtn" id="r5">
+            <input type="radio" name="rbtn" id="r6">
 
+
+            <div class="slide first" id="s1">
+               <p>Explore,Discover,Travel</p>
+               <h1>TRAVEL AROUND THE WORLD</h1>
+               <button>Discover Tour</button>
+
+            </div>
+            <div class="slide" id="s2">
+               <p>Explore,Discover,Travel</p>
+               <h1>DISCOVER THE NEW PLACES</h1>
+               <button>Discover Tour</button>
+            </div>
+            <div class="slide" id="s3">
+               <p>Explore,Discover,Travel</p>
+               <h1>MAKE YOUR TOUR WORTHWHILE</h1>
+               <button>Discover Tour</button>
+            </div>
+            <div class="slide" id="s4">
+               <p>Explore,Discover,Travel</p>
+               <h1>TRAVEL WITH EFFICIENT BUDGET</h1>
+               <button>Discover Tour</button>
+            </div>
+            <div class="slide" id="s5">
+               <p>Explore,Discover,Travel</p>
+               <h1>MUCH MORE EXCITING OFFERS</h1>
+               <button>Discover Tour</button>
+            </div>
+            <div class="slide" id="s6">
+               <p>Explore,Discover,Travel</p>
+               <h1>EAT, SLEEP, TRAVEL ,REPEAT</h1>
+               <button>Discover Tour</button>
+            </div>
+
+
+            <div class="navigate-auto">
+               <div class="abtn1"></div>
+               <div class="abtn2"></div>
+               <div class="abtn3"></div>
+               <div class="abtn4"></div>
+               <div class="abtn5"></div>
+               <div class="abtn6"></div>
+
+            </div>
+
+            <div class="navigate-manual">
+               <label for="r1" class="mbtn"></label>
+               <label for="r2" class="mbtn"></label>
+               <label for="r3" class="mbtn"></label>
+               <label for="r4" class="mbtn"></label>
+               <label for="r5" class="mbtn"></label>
+               <label for="r6" class="mbtn"></label>
+
+            </div>
+         </div>
+      </div>
+   </div> -->
+
+   <!-- <img src="./images/cover/c8.jpg" alt="" style="width:100%;height: 600px;"> -->
    <div class="banners" style="background-image: url('./images/banners/b10.jpg');">
       <h1 class="bhead">TRAVEL AROUND THE WORLD</h1>
    </div>
