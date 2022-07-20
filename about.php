@@ -19,7 +19,7 @@
         </div>
         <div class="right">
            <ul id="navlist">
-              <li><a href="index.php"  class="active">HOME</a></li>
+              <li><a href="index.html"  class="active">HOME</a></li>
               <li><a href="package.php">PACKAGES</li></a>
               <li><a href="about.php">ABOUT</a></li>
               <li><a href="book.php">BOOK</a></li>
